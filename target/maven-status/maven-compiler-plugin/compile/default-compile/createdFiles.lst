@@ -1,0 +1,5 @@
+com\mycompany\receitass\DriveManager.class
+com\mycompany\receitass\Receita.class
+com\mycompany\receitass\dbUtil.class
+com\mycompany\receitass\resources\JakartaEE10Resource.class
+com\mycompany\receitass\JakartaRestConfiguration.class
